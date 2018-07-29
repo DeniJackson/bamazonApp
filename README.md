@@ -5,4 +5,4 @@ This is an application that mimics the basic functions of an online store that g
 ## Walkthrough
 
 The app starts when the user enters this command into the console.
-![Image of Yaktocat]())
+![Image of Yaktocat](https://github.com/konobeat/bamazonApp/blob/master/bamazon_Screenshots/bamazon_1.png?raw=true))
